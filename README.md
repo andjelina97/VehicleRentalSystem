@@ -1,0 +1,2 @@
+I used inheritance to apply basic principles of object-oriented programming in this project. The Vehicle class served as a blueprint that other specific types of vehicles built upon by inheriting its features. Each type of vehicle had its own unique properties defined within its class.
+Additionally, I centralized the logic for calculating necessary values in the Invoice class. This class also handled the task of printing the final output. This structure helped keep the code organized and made it clear which part of the program was responsible for which task.
